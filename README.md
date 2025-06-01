@@ -1,1 +1,1 @@
-# learnig-AI
+# learning-AI
